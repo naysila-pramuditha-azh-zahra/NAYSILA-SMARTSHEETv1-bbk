@@ -129,7 +129,7 @@ class ArtikelAPI:
 
 
 config_artikel = ArtikelAPI()
-config_artikel.sheet_id('14EXDQFZ3w3m20W1w3EBl0MGCO9hxNz63ZWhC4tQewYY')
+config_artikel.sheet_id('1Z1Rt5_0ks-oCzVfKe2feVGl_tOw75DDqfT5nXZb3R0g')
 config_artikel.gid('710523043')
 
 
